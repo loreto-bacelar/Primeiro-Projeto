@@ -1,0 +1,1 @@
+Esta é a versão inicial do meu projeto "Jogo da Forca". Este projeto envolve conhecimentos iniciais da linguagem java como vetores, métodos, variáveis globais, laços de repetição, condicionais e classes de randomização e de input/output no console.
